@@ -46,18 +46,18 @@ In this task, I studied cybercrime through a case study. I learned about differe
 I also created a checklist of safety measures to protect against cyber risks. This task increased my awareness and taught me how to stay safe while using the internet.
 
 # Tools & Platforms Used:
-Design tools (for infographic creation)
-HackerRank (for coding practice)
-Google Forms (for surveys and data collection)
-GitHub (for repository management and documentation)
+1) Design tools (for infographic creation)
+2) HackerRank (for coding practice)
+3) Google Forms (for surveys and data collection)
+4) GitHub (for repository management and documentation)
 
 # Learning Outcomes
 Through this project, I have:
-Improved my understanding of digital tools and platforms
-Developed problem-solving and logical thinking skills
-Learned how to present information effectively
-Gained confidence in professional communication
-Increased awareness about cyber safety and responsibility.
+1) Improved my understanding of digital tools and platforms
+2) Developed problem-solving and logical thinking skills
+3) Learned how to present information effectively
+4) Gained confidence in professional communication
+5) Increased awareness about cyber safety and responsibility.
 
 # Conclusion:
 In conclusion, this Digital Literacy Project has helped me develop essential skills required in today’s digital age. It combined creativity, technical knowledge, and practical application, making the learning process engaging and meaningful.
