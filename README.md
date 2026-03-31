@@ -23,5 +23,22 @@ Digital-Literacy-Project
 7)README.md
 Each folder contains the respective task files, supporting documents, and reflections.
 
+## Project Structure
+This repository is organized in a clear and systematic way to ensure easy navigation:
+
+ Digital-Literacy-Project
+1)Task-1-Infographic
+2)Task-2-Digital-Portfolio
+3)Task-3-Platforms
+4)Task-4-Email-Etiquette
+5)Task-5-Cybercrime
+6)Report
+7)README.md
+Each folder contains the respective task files, supporting documents, and reflections.
+
+
+
+
+
 
 
