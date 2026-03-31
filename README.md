@@ -9,3 +9,19 @@ In this project, I worked on various tasks like creating an infographic, buildin
 4) To improve professional communication through email etiquette.
 5) To build awareness about cybercrime and online safety.
 6) To create a structured and presentable digital portfolio.
+
+## Project Structure
+This repository is organized in a clear and systematic way to ensure easy navigation:
+
+Digital-Literacy-Project
+1)Task-1-Infographic
+2)Task-2-Digital-Portfolio
+3)Task-3-Platforms
+4)Task-4-Email-Etiquette
+5)Task-5-Cybercrime
+6)Report
+7)README.md
+Each folder contains the respective task files, supporting documents, and reflections.
+
+
+
