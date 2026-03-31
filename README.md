@@ -23,18 +23,16 @@ Digital-Literacy-Project
 7)README.md
 Each folder contains the respective task files, supporting documents, and reflections.
 
-## Project Structure
-This repository is organized in a clear and systematic way to ensure easy navigation:
+## Task Details
+# Task-1:
+In this task, I created an infographic to visually represent key digital concepts in a simple and engaging manner.The focus was on clarity, design, and proper organization of information.I used design tools to combine visuals and text effectively.
+This task helped me understand how visual communication can make complex ideas easier to understand. It also improved my creativity and design thinking skills.
 
- Digital-Literacy-Project
-1)Task-1-Infographic
-2)Task-2-Digital-Portfolio
-3)Task-3-Platforms
-4)Task-4-Email-Etiquette
-5)Task-5-Cybercrime
-6)Report
-7)README.md
-Each folder contains the respective task files, supporting documents, and reflections.
+# Task-2:
+For this task, I developed a digital portfolio to showcase my work.It includes all project tasks,properly arranged and explained.I also ensured that the repository is complete and easy to navigate.
+Creating a portfolio helped me understand the importance of presenting work professionally. It also acts as a personal record of my progress and achievements.
+
+
 
 
 
