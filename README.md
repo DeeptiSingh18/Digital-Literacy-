@@ -32,6 +32,21 @@ This task helped me understand how visual communication can make complex ideas e
 For this task, I developed a digital portfolio to showcase my work.It includes all project tasks,properly arranged and explained.I also ensured that the repository is complete and easy to navigate.
 Creating a portfolio helped me understand the importance of presenting work professionally. It also acts as a personal record of my progress and achievements.
 
+# Task-3:
+In this task, I explored different digital platforms and completed a coding challenge on HackerRank. This improved my logical thinking and problem-solving skills.
+I also created a Google Form to collect responses, which helped me understand how data collection and analysis work. This task gave me practical exposure to tools that are widely used in real-world scenarios.
+
+
+# Task-4:
+This task focused on writing professional emails with proper structure and tone. I learned how to communicate clearly and respectfully in formal situations.
+I practiced writing emails based on real-life scenarios and followed a checklist to ensure correctness. This task improved my communication skills and made me more confident in professional writing.
+
+# Task-5:
+In this task, I studied cybercrime through a case study. I learned about different types of online threats such as phishing, hacking, and identity theft.
+I also created a checklist of safety measures to protect against cyber risks. This task increased my awareness and taught me how to stay safe while using the internet.
+
+
+
 
 
 
